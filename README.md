@@ -1,6 +1,6 @@
 ## To-Do List
 
-A React application built to practice building out a To-Do list. 
+A React application designed to practice creating a To-Do list.
 
 #### By _**Z Perez**_
 
