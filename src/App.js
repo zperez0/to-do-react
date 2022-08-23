@@ -1,10 +1,18 @@
-import './App.css';
+import React from "react";
+import Header from "./components/Header";
+import TodoControl from "./components/TodoControl";
+import "bootstrap/dist/css/bootstrap.min.css";
+import { Container } from "react-bootstrap";
+
 
 function App() {
   return (
-    <div className="App">
-      hello world
-    </div>
+    <>
+      <Container>
+        <Header />
+        <TodoControl />
+      </Container>
+    </>
   );
 }
 
