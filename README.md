@@ -1,8 +1,49 @@
-# Getting Started with Create React App
+## To-Do List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React application built to practice building out a To-Do list. 
 
-## Available Scripts
+#### By _**Z Perez**_
+
+## Technologies Used
+* _React_
+* _JavaScript_
+* _HTML_
+* _Bootstrap_
+* _Markdown_
+
+## Description
+This application contains full CRUD functionality. A User can view, add, update, and delete a to-do.
+
+## Setup/Installation Requirements
+* _Go to [GitHub](https://github.com/zperez0/to-do-react.git)_
+* _Clone git repository to local machine_
+```
+$ git clone https://github.com/zperez0/to-do-react.git
+```
+* _Navigate to root folder and open directory in your terminal_
+
+#### Build Environment
+* _Install packages:_
+```
+$ npm install
+```
+
+#### Server:
+* _Start server:_
+```
+$ npm start
+```
+###### It should automatically open up the server if not
+
+* _Open up your browser and go to:_
+```
+http://localhost:3000/
+```
+
+---
+
+
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -68,3 +109,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+---
+
+## Known Bugs
+* _No known bugs._
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+Copyright (c) _2022_, _Z Perez_
