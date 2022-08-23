@@ -12,7 +12,7 @@ A React application designed to practice creating a To-Do list.
 * _Markdown_
 
 ## Description
-This application contains full CRUD functionality. A User can view, add, update, and delete a to-do.
+ A User can view, add, and delete a to-do.
 
 ## Setup/Installation Requirements
 * _Go to [GitHub](https://github.com/zperez0/to-do-react.git)_
